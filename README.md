@@ -15,11 +15,6 @@
 
 ---
 
-## Demo
-
-![Portfolio Demo](https://i.ibb.co.com/BVLjy4Qc/Screenshot-2026-02-15-195146.png)
-
----
 
 ## Live Preview
 
